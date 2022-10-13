@@ -1,11 +1,11 @@
 questions = [
     {
-        "question": "I should be able to control my own property.",
+        "question": "I find the idea of being in a relationship with more than one person deplorable.",
         "effect": {
-            "econ": -5,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": -10
         }
     },
     {
